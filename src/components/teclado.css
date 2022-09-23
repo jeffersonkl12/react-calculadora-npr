@@ -1,0 +1,44 @@
+.operadores{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 20px auto;
+    padding: 15px;
+    height: 30px;
+
+    background-color: #be2596;
+}
+
+.numeros{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+    height: 400px;
+}
+
+.numeros > button{
+    width: 21%;
+}
+
+
+
+.btn{
+ 
+    text-align: center;
+
+    width: 15%;
+    height: 40px;
+    border: none;
+    background: none;
+
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}

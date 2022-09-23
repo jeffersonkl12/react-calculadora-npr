@@ -1,0 +1,7 @@
+.calculadora-container{
+    max-width: 500px;
+    
+    margin: auto;
+    padding: 15px 0;
+    background-color: #6c25be;
+}
